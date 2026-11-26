@@ -11,8 +11,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="6c2b6652-589c-4265-8190-61ecd93e461f" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/Assets/Scenes/Sidescroller.unity" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scenes/Sidescroller.unity" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ProjectSettings/TagManager.asset" beforeDir="false" afterPath="$PROJECT_DIR$/ProjectSettings/TagManager.asset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.Macazo_Justin_Week10_PlatformerIntro/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.Macazo_Justin_Week10_PlatformerIntro/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -117,6 +116,7 @@
       <updated>1795653473145</updated>
       <workItem from="1795653474308" duration="164000" />
       <workItem from="1795653663242" duration="2844000" />
+      <workItem from="1795659401503" duration="1648000" />
     </task>
     <servers />
   </component>
