@@ -122,6 +122,15 @@ public class PlayerController : MonoBehaviour
             groundCheckSize,
             0,
             groundCheckMask);
+        if (!isGrounded)
+        {
+            Debug.Log("player is airborn");
+        }
+        else
+        {
+            Debug.Log("player is grounded");
+        }
+
     }
 
     public bool IsWalking()

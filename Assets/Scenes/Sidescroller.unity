@@ -4176,7 +4176,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 82246069086624815, guid: c0063abd85bf41b4faef95c439286949, type: 3}
       propertyPath: m_LocalPosition.y
-      value: -2.3
+      value: -2.13
       objectReference: {fileID: 0}
     - target: {fileID: 82246069086624815, guid: c0063abd85bf41b4faef95c439286949, type: 3}
       propertyPath: m_LocalPosition.z
@@ -4209,6 +4209,34 @@ PrefabInstance:
     - target: {fileID: 82246069086624815, guid: c0063abd85bf41b4faef95c439286949, type: 3}
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 6651097673378592858, guid: c0063abd85bf41b4faef95c439286949, type: 3}
+      propertyPath: m_Enabled
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 7428298229329625348, guid: c0063abd85bf41b4faef95c439286949, type: 3}
+      propertyPath: body2D
+      value: 
+      objectReference: {fileID: 380324919920706560}
+    - target: {fileID: 7428298229329625348, guid: c0063abd85bf41b4faef95c439286949, type: 3}
+      propertyPath: maxSpeed
+      value: 5
+      objectReference: {fileID: 0}
+    - target: {fileID: 7428298229329625348, guid: c0063abd85bf41b4faef95c439286949, type: 3}
+      propertyPath: apexHeight
+      value: 2
+      objectReference: {fileID: 0}
+    - target: {fileID: 7428298229329625348, guid: c0063abd85bf41b4faef95c439286949, type: 3}
+      propertyPath: accelerationTime
+      value: 0.1
+      objectReference: {fileID: 0}
+    - target: {fileID: 7428298229329625348, guid: c0063abd85bf41b4faef95c439286949, type: 3}
+      propertyPath: decelerationTime
+      value: 0.2
+      objectReference: {fileID: 0}
+    - target: {fileID: 7428298229329625348, guid: c0063abd85bf41b4faef95c439286949, type: 3}
+      propertyPath: groundCheckMask.m_Bits
+      value: 4294967295
       objectReference: {fileID: 0}
     - target: {fileID: 8927549095852432977, guid: c0063abd85bf41b4faef95c439286949, type: 3}
       propertyPath: m_Name
@@ -4302,7 +4330,7 @@ Rigidbody2D:
   m_Interpolate: 0
   m_SleepingMode: 1
   m_CollisionDetection: 0
-  m_Constraints: 0
+  m_Constraints: 4
 --- !u!1660057539 &9223372036854775807
 SceneRoots:
   m_ObjectHideFlags: 0
